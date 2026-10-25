@@ -35,7 +35,7 @@ Buenas prácticas de seguridad informática.
 Proyectos tecnológicos personales y sus aprendizajes.
 
 
-🎯 Objetivo profesional
+🎯 Objetivo profesional.
 
 Continuar fortaleciendo mis habilidades técnicas, ampliar mis conocimientos en ciberseguridad y construir un portafolio basado en experiencias prácticas, documentación y aprendizaje continuo.
 
